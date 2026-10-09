@@ -1,0 +1,6 @@
+KPI,Value,Definition
+Total Sales,80113.34,Sum of Sales
+Total Profit,26533.51,Sum of Profit
+Total Orders,100.0,Distinct Order_ID count
+Quantity Sold,320.0,Sum of Quantity
+Profit Margin,33.12,Total Profit / Total Sales * 100
