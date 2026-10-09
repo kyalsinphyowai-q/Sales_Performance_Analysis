@@ -1,7 +1,11 @@
 # Sales Performance Analysis | Power BI
 
 ## Project Overview
-This project analyzes a fictional retail sales dataset using Microsoft Excel and Power BI. It is designed to demonstrate an end-to-end analytics workflow: reviewing source data, validating key fields, analyzing sales and profit performance, and communicating findings through a two-page Power BI report.
+This project analyzes a fictional retail sales dataset using Microsoft Excel, MySQL, and Power BI.
+
+The workflow includes data validation and exploratory analysis in Excel, SQL-based sales and profit analysis, KPI validation, and business reporting through a two-page Power BI report.
+
+The objective is to identify sales trends, evaluate product category and city performance, and provide actionable business recommendations.
 
 ## Business Questions
 - How much revenue, profit, and quantity were generated?
@@ -66,17 +70,18 @@ The Power BI report includes:
 - Sales and profit summaries were calculated from the provided source workbook to validate the headline metrics.
 
 ## Tools & Skills
-- Microsoft Excel
-- Microsoft Power BI
-- Data validation and quality checks
-- KPI design
-- Business intelligence dashboards
-- Sales, profit, category, city, and monthly trend analysis
-- Business recommendations and data storytelling
+- Microsoft Excel — Data validation and exploratory analysis
+- MySQL — SQL queries, aggregation, GROUP BY, sorting, date formatting, and KPI calculations
+- Microsoft Power BI — Interactive dashboards and KPI visualization
+- Data quality checks
+- Business intelligence and data storytelling
+- Business recommendations based on sales and profit trends
 
 ## Repository Files
-- `Sales_dashboard_power_bi.pbix` — editable Power BI report.
-- `Sales_Analysis.xlsx` — source workbook, including raw data, cleaned data, pivot tables, and Excel dashboard sheet.
+- `Sales_dashboard_power_bi.pbix` — Editable Power BI report.
+- `Sales_Analysis.xlsx` — Source workbook containing raw data, cleaned data, pivot tables, and Excel dashboard.
+- `Sales_Analysis_SQL.sql` — SQL queries for sales, profit, category, city, product, customer, monthly trends, and profit margin analysis.
+- `KPI_Definitions.csv` — Definitions of the key performance indicators used in the project.
 
 ## Limitations
 - This is a small, 100-order dataset and may not represent real-world retail behavior.
