@@ -18,7 +18,7 @@ The objective is to identify sales trends, evaluate product category and city pe
 The dataset contains **100 orders** from January through July 2026. Total sales were **$80,113.34**, total profit was **$26,533.51**, and total quantity sold was **320 units**. The overall profit margin was approximately **33.12%** (total profit divided by total sales).
 
 ## Dashboard Preview
-![Sales Performance Dashboard](Sales_Performance_Dashboard.jpg)
+![Sales Performance Dashboard](Sales_Performance_Analysis.jpg)
 
 ## Key Business Insights
 ![Business Insights](Business_Insights.jpg)
