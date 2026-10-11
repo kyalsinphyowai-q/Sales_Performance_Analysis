@@ -89,8 +89,13 @@ The Power BI report includes:
 - Profit is based on the supplied `Profit` column. Cost allocation and business accounting assumptions were not independently audited.
 - Findings describe patterns in this dataset and should be validated against a larger, operational dataset before business decisions are made.
 
-## About
-Created as a portfolio project to demonstrate practical data analysis and Power BI reporting skills.
+## About Me
 
-**Author:** Kyal Sin Phyo Wai  
-**LinkedIn:** https://www.linkedin.com/in/kyal-sin-phyo-wai
+ **Kyal Sin Phyo Wai**  
+ Aspiring Freelance Data Analyst
+
+ **Skills:** Excel • SQL • Power BI
+
+ **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/kyal-sin-phyo-wai)
+
+
