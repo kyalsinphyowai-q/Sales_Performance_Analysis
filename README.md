@@ -1,7 +1,7 @@
 # Sales Performance Analysis | Power BI
 
 ## Project Overview
-This project analyzes a fictional retail sales dataset using Microsoft Excel, MySQL, and Power BI.
+This project analyzes a retail sales dataset using Microsoft Excel, MySQL, and Power BI.
 
 The workflow includes data validation and exploratory analysis in Excel, SQL-based sales and profit analysis, KPI validation, and business reporting through a two-page Power BI report.
 
